@@ -57,8 +57,8 @@
        <h1 id="sub-contact">Customer Care (24x7)</h1>
               
   <p id="sub-contact">
-                    Toll-Free: 9999999999<br>
-                    Phone: +1234567890<br>
+                    Toll-Free: 99999999997<br>
+                    Phone: +12345678907<br>
       
               Email: chandandasdivakar@gmail.com
                 </p>
